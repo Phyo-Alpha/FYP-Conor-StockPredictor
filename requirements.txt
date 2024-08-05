@@ -42,6 +42,7 @@ Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mysql-connector-python
+matplotlib
 numpy==1.26.4
 pandas==2.2.2
 pandas-datareader==0.10.0
